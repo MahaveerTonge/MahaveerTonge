@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Mahaveer 👋
 
-<!--
-**MahaveerTonge/MahaveerTonge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Master’s in Computer Science student at Northeastern University specializing in Algorithms and Artificial Intelligence.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on a Reinforcement Learning capstone focusing on Q-learning.
+- 🌱 Improving my expertise in Deep Learning, Computer Vision, and Data Structures.
+- 💼 Technical System Support at Northeastern University.
+- ⚡ Fun fact: I have experience engineering automation frameworks that reduced data processing errors by 90%.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Languages:** Python, C++, Java, X++, SQL
+- **Frameworks/Tools:** PyTorch, TensorFlow, Firebase ML Kit, Dynamics AX/365
+- **Interests:** Reinforcement Learning, Driver Monitoring Systems, Enterprise Solutions
+
+[LinkedIn](https://www.linkedin.com/in/mahaveer-tonge-31a8b8213/) | [Portfolio]((https://mahaveer-profile.netlify.app/))
