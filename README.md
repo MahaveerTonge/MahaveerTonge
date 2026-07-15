@@ -9,7 +9,7 @@ Software Engineer | 3 years @ Microchip Technology
 - 💼 Background in enterprise automation, ERP systems, 
   and data pipelines — reduced processing errors by 90%
 - 🤖 Exploring agentic AI, LLM workflows, and ML pipelines
-- 📍 Boston, MA | Available May–December 2026
+- 📍 Boston, MA | Available FALL 2026
 
 ### 🛠 Tech Stack
 **Languages:** Python | Java | C++ | JavaScript | SQL | X++
@@ -17,7 +17,7 @@ Software Engineer | 3 years @ Microchip Technology
 **Cloud & DevOps:** AWS | Lambda | DynamoDB | API Gateway | 
 Terraform | GitHub Actions | Azure DevOps | CI/CD
 
-**AI & ML:** Deep Learning | ResNet50 CNN | PyTorch | Firebase ML
+**AI & ML:** Deep Learning | PyTorch | Firebase ML
 
 **Tools:** Git | REST APIs | Dynamics 365 | SSRS
 
