@@ -9,7 +9,7 @@ Software Engineer | 3 years @ Microchip Technology
 - 💼 Background in enterprise automation, ERP systems, 
   and data pipelines — reduced processing errors by 90%
 - 🤖 Exploring agentic AI, LLM workflows, and ML pipelines
-- 📍 Boston, MA | Available FALL 2026
+- 📍 Boston, MA | Available Immediately
 
 ### 🛠 Tech Stack
 **Languages:** Python | Java | C++ | JavaScript | SQL | X++
